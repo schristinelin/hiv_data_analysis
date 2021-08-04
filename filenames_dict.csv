@@ -1,0 +1,8 @@
+file_name,df_name
+AIDS-related deaths_AIDS-related deaths - All ages_Population_ All ages.csv     ,mortality_num
+AIDS-related deaths_AIDS mortality per 1000 population_Population_ All.csv               ,mortality_rate
+New HIV infections_New HIV infections - All ages_Population_ All ages.csv            ,incidence_num
+New HIV infections_HIV incidence per 1000 population - All ages_Population_ All.csv,incidence_rate
+Treatment cascade_People living with HIV receiving ART (#)_Population_ All ages.csv     ,on_ART_num
+Treatment cascade_People living with HIV receiving ART (%)_Population_ All ages.csv,on_ART_rate
+People living with HIV_People living with HIV - All ages_Population_ All.csv,prevalence_num
